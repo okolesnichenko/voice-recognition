@@ -4,7 +4,6 @@
 import speech_recognition as sr
 import os
 import cloudconvert
-
 import sys
 import pyaudio
 
@@ -13,9 +12,7 @@ def talk(words):
     print(words)
     os.system("say "+words)
 
-
-talk("Hellow")
-
+talk("Hello!")
 
 def recognize():
     r = sr.Recognizer()
@@ -24,14 +21,12 @@ def recognize():
         print('Say something')
         r.adjust_for_ambient_noise(source)
         audio = r.listen(source)
-
     try:
         usertext = r.recognize_google(audio, language="ru_RU").lower()
         print(format(usertext))
     except sr.UnknownValueError:
         print("Скаже еще")
         usertext = recognize()
-
     return usertext
 
 while True:
