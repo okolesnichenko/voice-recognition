@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3a0d5cd-1d83-423f-91b5-25ff02ba8209" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../flask/app/main/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python 3 (Самое необходимое) - 2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book_code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-JARVIS-91/api/slack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-JARVIS-91/api/slack/slack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonbook" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip-19.0.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/locations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/locations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/models/candidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/models/format_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/pep425tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/pep425tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/resolve.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/resolve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/deprecation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/glibc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/utils/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_internal/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/certifi/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/spinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegrambot/tbot/telegram-bot" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/tbot/telegram-bot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test4.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/voicerecog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="24" />
+              <folding>
+                <element signature="e#48#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/voicerecog.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="voicerecignizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voicerecignizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="voicerecignizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/my_env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voicerecog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voicerecog" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="voicerecignizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/my_env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voicerecog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a0d5cd-1d83-423f-91b5-25ff02ba8209" name="Default Changelist" comment="" />
+      <created>1556347401256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556347401256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="927" height="1055" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24668142" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/voicerecog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="24" />
+          <folding>
+            <element signature="e#48#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
